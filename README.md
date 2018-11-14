@@ -2,11 +2,14 @@
 This app will allows you to upload a face image from the image's url or address. You will paste it in the detect box and the Face recognition API will detect the face of person in the image with a box, but first you must register before you can sign in. Try it out !
 
 ## Cloning App 
-* Open your terminal and clone
-git clone "this repositories url"
-*Run command in terminal while in this repository
+* Open your terminal and clone*
+```
+git clone "the url for this app"
+```
+*Run command in terminal while in this repository*
+```
 $ npm start
-
+```
 ## Getting Started
 *Make sure you create a react app*
 You can start your own react app following the instructions here
